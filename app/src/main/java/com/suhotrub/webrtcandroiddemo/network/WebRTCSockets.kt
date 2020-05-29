@@ -1,4 +1,4 @@
-package com.suhotrub.webrtcandroiddemo
+package com.suhotrub.webrtcandroiddemo.network
 
 import org.java_websocket.client.WebSocketClient
 import org.java_websocket.handshake.ServerHandshake
